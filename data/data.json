@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "081234567891",
+        "paket": "Cuci Reguler",
+        "berat": "3",
+        "status_pesanan": "Proses Selesai",
+        "status_pembayaran": "Sudah dibayar",
+        "harga_paket": 3000,
+        "harga_ongkir": "6000",
+        "total_harga": 33000,
+        "alamat": "Bandung"
+    },
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "081812345678",
+        "paket": "Cuci Kilat",
+        "berat": "2",
+        "status_pesanan": "Proses Selesai",
+        "status_pembayaran": "Sudah dibayar",
+        "harga_paket": 4000,
+        "harga_ongkir": "4000",
+        "total_harga": 24000,
+        "alamat": "Bandung"
+    },
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "081803990470",
+        "paket": "Cuci Express",
+        "berat": "1",
+        "status_pesanan": "Sedang diproses",
+        "status_pembayaran": "Sudah dibayar",
+        "harga_paket": 4000,
+        "harga_ongkir": "4000",
+        "total_harga": 16000,
+        "alamat": "Bandung"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "087812345678",
+        "paket": "Karpet",
+        "per_pcs": "1",
+        "status_pesanan": "Proses Selesai",
+        "status_pembayaran": "Sudah dibayar",
+        "harga_paket": 40000,
+        "harga_ongkir": "6000",
+        "total_harga": 46000,
+        "alamat": "Bandung"
+    },
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "085212345678",
+        "paket": "Selimut",
+        "per_pcs": "1",
+        "status_pesanan": "Proses Selesai",
+        "status_pembayaran": "Sudah dibayar",
+        "harga_paket": 20000,
+        "harga_ongkir": "4000",
+        "total_harga": 24000,
+        "alamat": "Bandung"
+    },
+    {
+        "nama": "Markus W. S. H. Situmorang",
+        "no_telepon": "081812345678",
+        "paket": "Boneka",
+        "per_pcs": "2",
+        "status_pesanan": "Sedang diproses",
+        "status_pembayaran": "Belum dibayar",
+        "harga_paket": 50000,
+        "harga_ongkir": "8000",
+        "total_harga": 58000,
+        "alamat": "Bandung"
+    }
+]
